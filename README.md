@@ -6,7 +6,7 @@
 
 DSH 的桌宠生态还在起步阶段，而 Codex 桌宠皮肤市场已经非常成熟——本插件直接采用 **Codex 桌宠框架与皮肤格式**（`pet.json` + `spritesheet.webp`），内置聚合皮肤市场，让你在 DSH 里一键**下载 / 卸载 / 切换**上千款社区桌宠皮肤，并渲染一只随 Agent 工作状态实时变化的动画桌宠。
 
-![皮肤中心](https://cdn.jsdelivr.net/gh/bcdahb0-jpg/dsh-codex-petcenter@master/docs/screenshot-center.webp)
+![皮肤中心](https://cdn.jsdelivr.net/gh/bcdahb0-jpg/dsh-codex-petcenter@master/docs/screenshot-center.webp)（不显示，可直接点击显示）
 
 > 皮肤市场聚合了 codex-pet.org 社区 1196+ 款宠物、GitHub `codex-pet` 主题仓库检索结果与内置精选皮肤，全部与 Codex 桌面端共享同一皮肤目录（`~/.codex/pets`），两边同步生效。
 
@@ -27,7 +27,7 @@ DSH 的桌宠生态还在起步阶段，而 Codex 桌宠皮肤市场已经非常
 
 ## 📸 截图
 
-| 皮肤中心设置页 | 像素皮肤示例 |
+| 皮肤中心设置页 | 像素皮肤示例 |（不显示，可直接点击显示）
 | --- | --- |
 | ![皮肤中心](https://cdn.jsdelivr.net/gh/bcdahb0-jpg/dsh-codex-petcenter@master/docs/screenshot-center.webp) | ![星街彗星像素皮肤](https://cdn.jsdelivr.net/gh/bcdahb0-jpg/dsh-codex-petcenter@master/docs/skin-suisei.webp) |
 
