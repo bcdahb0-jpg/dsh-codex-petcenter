@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+.pnpm/
+
+# Build / runtime artifacts
+dist/
+build/
+*.log
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local pet data (never commit user skins)
+pets-local/
+*.local.json
